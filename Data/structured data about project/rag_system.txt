@@ -1,0 +1,35 @@
+TITLE:
+Retrieval-Augmented Generation (RAG)
+
+DEFINITION:
+RAG combines a retrieval system with a language model to generate grounded answers.
+
+KEY COMPONENTS:
+- Retriever (vector search, keyword search)
+- Generator (LLM)
+- Context builder
+- Verifier
+
+WORKFLOW:
+1. Receive query
+2. Retrieve documents
+3. Build context
+4. Generate answer
+5. Verify answer
+
+FAILURE MODES:
+- Wrong retrieval
+- Weak context
+- Hallucination
+
+IMPROVEMENTS:
+- Hybrid search
+- Query decomposition
+
+APPLICATIONS:
+- AI search
+- Research assistants
+
+RESEARCH INSIGHTS:
+- Retrieval quality is critical
+- Verification improves trust

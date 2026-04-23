@@ -1,0 +1,31 @@
+TITLE:
+Multi-Agent AI System
+
+DEFINITION:
+A system where multiple AI agents collaborate to solve complex tasks.
+
+KEY COMPONENTS:
+- Planner Agent
+- Retriever Agent
+- Generator Agent
+- Critic Agent
+
+WORKFLOW:
+1. Plan query
+2. Retrieve data
+3. Generate response
+4. Critic verifies output
+
+FAILURE MODES:
+- Poor coordination
+- Error propagation
+
+IMPROVEMENTS:
+- Better communication between agents
+
+APPLICATIONS:
+- Research systems
+- Autonomous AI workflows
+
+RESEARCH INSIGHTS:
+- Iterative systems outperform single-step models
