@@ -1,0 +1,15 @@
+Fusion energy is a process where two light atomic nuclei combine to form a heavier nucleus, releasing a large amount of energy. It powers the sun and stars.
+
+Retrieval-Augmented Generation (RAG) is a method that combines retrieval of relevant documents with language model generation to produce grounded and factual answers.
+
+A vector database stores data as embeddings, which are numerical representations of text. These embeddings allow semantic search instead of keyword matching.
+
+FAISS is a library developed by Facebook AI that allows efficient similarity search over large collections of vectors.
+
+Hallucination in language models refers to generating incorrect or unsupported information that is not grounded in the provided data.
+
+Evaluation of RAG systems includes metrics such as faithfulness, relevance, and answer correctness.
+
+Agentic AI refers to systems that can plan, act, and iterate toward a goal autonomously.
+
+Verification in RAG systems involves checking whether generated answers are supported by retrieved documents.
