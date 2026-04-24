@@ -1,0 +1,31 @@
+TITLE:
+Core AI Concepts
+
+DEFINITION:
+Basic concepts behind modern AI systems.
+
+KEY COMPONENTS:
+- Embeddings
+- Vector search
+- FAISS
+- Semantic search
+
+WORKFLOW:
+1. Convert text to embeddings
+2. Store in vector database
+3. Retrieve similar data
+
+FAILURE MODES:
+- Poor embeddings
+- Irrelevant retrieval
+
+IMPROVEMENTS:
+- Better models
+- Hybrid search
+
+APPLICATIONS:
+- Search engines
+- AI assistants
+
+RESEARCH INSIGHTS:
+- Embeddings enable semantic understanding

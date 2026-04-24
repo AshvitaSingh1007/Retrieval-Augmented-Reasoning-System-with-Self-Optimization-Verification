@@ -1,0 +1,30 @@
+TITLE:
+AI Evaluation Framework
+
+DEFINITION:
+A system to measure AI output quality.
+
+KEY COMPONENTS:
+- Accuracy
+- Relevance
+- Faithfulness
+
+WORKFLOW:
+1. Generate answer
+2. Compare with ground truth
+3. Score performance
+
+FAILURE MODES:
+- Weak benchmarks
+- Biased datasets
+
+IMPROVEMENTS:
+- Better datasets
+- Multi-metric evaluation
+
+APPLICATIONS:
+- Model testing
+- Benchmarking
+
+RESEARCH INSIGHTS:
+- Evaluation is as important as generation

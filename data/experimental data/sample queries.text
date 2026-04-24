@@ -1,0 +1,31 @@
+Sample Queries for Testing the RAG System
+
+Basic Concept Queries:
+What is Retrieval-Augmented Generation (RAG)?
+Explain vector embeddings in simple terms.
+What is FAISS and why is it used?
+
+System Architecture Queries:
+Explain the steps involved in a RAG system.
+How does document chunking improve retrieval?
+What is the role of embeddings in semantic search?
+
+Hallucination & Verification:
+What is hallucination in AI systems?
+How can hallucinations be detected?
+What is verification in a RAG pipeline?
+
+Evaluation Queries:
+What metrics are used to evaluate RAG systems?
+Explain faithfulness and relevance in AI evaluation.
+How do you measure correctness of an AI-generated answer?
+
+Multi-Agent System Queries:
+What is a multi-agent research system?
+Explain the roles of planner, retriever, and critic agents.
+How do agents collaborate in AI systems?
+
+Advanced / Research-Oriented Queries:
+How does retrieval quality impact answer accuracy?
+Why is grounding important in AI-generated responses?
+What are limitations of current RAG systems?
